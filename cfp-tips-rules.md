@@ -1,6 +1,6 @@
 # Tips for submitting a proposal or paper to PAPIs — and a few rules
 
-This document completes the CfP guidelines for the [PAPIs conferences](https://www.papis.io), which you'll find at [cfp.papis.io](http://cfp.papis.io/).
+This document completes the guidelines for the [PAPIs Call for Proposals](http://cfp.papis.io).
 
 ## How to craft a good talk proposal
 
@@ -94,7 +94,7 @@ for your convenience. Detailed information about the `jmlr` class is available i
 
 ## Any questions?
 
-If you have questions or concerns about anything you see here, please [contact us](mailto:cfp@papis.io).
+If you have questions or concerns about anything you see here, please [contact us](mailto:cfp-app@papis.mailclark.ai).
 
 ## Acknowledgments
 
