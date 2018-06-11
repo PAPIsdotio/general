@@ -52,6 +52,8 @@ Please use tags to identify your target audience (*ML beginners, ML practitioner
 
 Please tag your proposal with *demo* if you're planning a include a demo, and explain how long you plan the demo to be in the *Details* field.
 
+Please tag your proposal with *paper* if you're also submitting a paper (read more below).
+
 ## Industrial experience reports, technical, review and research papers
 
 Industry reports or papers are not required to get your proposal accepted, but they're highly appreciated. We will publish accepted papers in Proceedings of Machine Learning Research, after the conference. Some examples:
