@@ -91,10 +91,9 @@ You should prepare your submission as a ZIP archive containing...
 
 Please then share this archive as a download link in the Comments section of the CfP app.
 
-#### About the `jmlr` style
+#### Compiling the LaTeX source into PDF
 
-The provided LaTeX file uses the `jmlr` class with the `pmlr` option: `\documentclass[pmlr]{jmlr}`. The [`jmlr.cls`](proceedings/jmlr.cls) style file is included
-for your convenience. Detailed information about the `jmlr` class is available in [`jmlr.pdf`](proceedings/jmlr.pdf), and full details can be found [here](https://ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en).
+The provided LaTeX file uses the `jmlr` class with the `pmlr` option: `\documentclass[pmlr]{jmlr}`. This class is defined in the [`jmlr.cls`](proceedings/jmlr.cls) style file. You can find some more details about that class in [`jmlr.pdf`](proceedings/jmlr.pdf), and full details at [CTAN](https://ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en).
 
 ## Any questions?
 
