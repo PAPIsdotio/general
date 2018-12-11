@@ -10,8 +10,8 @@ We believe that **great presentations should be practical and focused**. For ins
 
 Some examples of popular presentations at previous PAPIs conferences:
 
-- Applying ML in the real world: [Machine Learning, Technical Debt, and You](https://www.youtube.com/watch?v=V18AsBIHlWs)
-- ML Engineering & ScienceOps: [Open Source Machine Learning Deployment](https://www.youtube.com/watch?v=_JdFey7oAiI); [Scaling Machine Learning as a Service](https://www.youtube.com/watch?v=MpnszJ_3Ong)
+- ML in the Wild: [Machine Learning, Technical Debt, and You](https://www.youtube.com/watch?v=V18AsBIHlWs)
+- ML Engineering: [Open Source Machine Learning Deployment](https://www.youtube.com/watch?v=_JdFey7oAiI); [Scaling Machine Learning as a Service](https://www.youtube.com/watch?v=MpnszJ_3Ong)
 - New ML techniques: [The future of ML is decentralized](https://www.youtube.com/watch?v=UgiPrYhBYYo); [Techniques for Distributed TensorFlow on Hops](https://www.youtube.com/watch?v=fu6Flh9NnM8)
 - Tools: [PredictionIO tutorial](https://www.youtube.com/watch?v=zeGnILRIdUk&list=PLex5Agivp-gh3tYo9yCY9Dgcj3nXYol1k&index=13); [DIY Predictive Modeling Cluster with Kubernetes, Dask and JupyterHub](https://youtu.be/iRHJYXu5qx8)
 
@@ -23,7 +23,7 @@ It is possible to submit several proposals through our CfP application. However,
 
 ### Title, Session Format, Track, Abstract & Bio
 
-These are what attendees will see in the program. The title and abstract should be compelling and to-the-point. Tell a story. Why should attendees come to your presentation and what will they get out of it?
+These are what attendees will see in the program. The title and abstract should be compelling and to-the-point. Tell a story. Why should attendees come to your presentation and what will they get out of it? Note that the abstract is limited to 600 characters.
 
 Please identify the track which is best suited to your proposal (see our CfP guidelines for track descriptions), while avoiding to select the "general" track. If you think your talk could also fit in another track, please explain in the *Details* field.
 
@@ -35,12 +35,13 @@ Your bio won’t be seen by reviewers in the 1st round of reviews but we will us
 
 Only reviewers will see this. Please take care here to refrain from identifying who you are since our first round of review is blind, and we appreciate your efforts to respect that as much as possible.
 
-It's ok to use the abstract as a teaser of your presentation, but please use the *Details* field to go into more depth about what you’ll cover and to be as specific as possible on the content of your presentation. We invite you to...
+It's ok to use the abstract as a teaser of your presentation, but please use the *Details* field to go into more depth about what you’ll cover, and to be as specific as possible on the content of your presentation. You can think of this as an "extended abstract", and the recommended length is 2000 characters or more. We invite you to...
 
-- include an outline (with rough time estimates)
 - reveal the "secret sauce" of your presentation
 - explain any twists you’ll include that may not be evident in the title or abstract
-- let us know if you will also be sharing code or an API (and links to them, if any).
+- include references and comparisons to related work
+- let us know if you will be showing a demo, sharing code, or an API (and give links to them, if any)
+- include an outline of your presentation (with rough time estimates)
 
 ### Pitch
 
@@ -50,9 +51,10 @@ Only reviewers will see this. Pitch is a good place to tell reviewers why PAPIs 
 
 Please use tags to identify your target audience (*ML beginners, ML practitioners, ML experts*) and the level of technicality of your talk (*non-technical, somewhat technical, very technical*).
 
-Please tag your proposal with *demo* if you're planning a include a demo, and explain how long you plan the demo to be in the *Details* field.
+Please tag your proposal with *demo* if you'll be showing a demo, and explain how long you plan the demo to be in the *Details* field.
 
 Please tag your proposal with *paper* if you're also submitting a paper (read more below).
+Please tag your proposal with *code* if you'll be showing code.
 
 ## Industrial experience reports, technical, review and research papers
 
