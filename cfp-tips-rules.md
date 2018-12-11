@@ -53,47 +53,29 @@ Please use tags to identify your target audience (*ML beginners, ML practitioner
 
 Please tag your proposal with *demo* if you'll be showing a demo, and explain how long you plan the demo to be in the *Details* field.
 
-Please tag your proposal with *paper* if you're also submitting a paper (read more below).
 Please tag your proposal with *code* if you'll be showing code.
 
-## Industrial experience reports, technical, review and research papers
 
-Industry reports or papers are not required to get your proposal accepted, but they're highly appreciated. We will publish accepted papers in Proceedings of Machine Learning Research, after the conference. Some examples:
+## Peer-reviewed articles/papers
 
+We encourage authors of accepted proposals to complement their presentation with an article that will be peer-reviewed, included in our proceedings, and published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). These articles are not limited to research papers, but they can also be technical papers, industrial experience reports, review papers, primers, perspective papers, essays, etc.
+
+Publishing an article in a peer-reviewed journal such as PMLR requires some effort, but it is a great way to contribute to your reputation and that of your organization. Previous authors include teams at Microsoft, Uber Engineering, Upwork, Dataiku, BigML... Peer-reviewed articles advance the community's knowledge as they provide more details on what you did, for others to learn from. They're also a great way to build authors' careers, and to prove to partners, clients or investors that the quality of your work is recognized. Read more [here](https://stories.papis.io/the-problem-with-white-papers-d82c3678f9e7).
+
+### Example articles from previous PAPIs conferences
+
+- [Li, 2016](http://proceedings.mlr.press/v67/li17a/li17a.pdf): Industrial experience report on Uber's internal ML-as-a-Service platform, Michelangelo (also see [talk video](https://www.youtube.com/watch?v=MpnszJ_3Ong) and [blog article](https://eng.uber.com/michelangelo/))
 - [Azure ML, 2015](http://proceedings.mlr.press/v50/azureml15.pdf) (Industrial experience report)
-- [Li, 2016](http://proceedings.mlr.press/v67/li17a/li17a.pdf) (Industrial experience report)
 - [Gutierrez, 2016](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf) (Research paper)
 - [Cetinsoy, 2015](http://proceedings.mlr.press/v50/cetinsoy15.pdf) (Review paper)
 
-Publishing a paper in a peer-reviewed journal requires some effort but it is another great way to contribute to your reputation and that of your company. Previous authors include teams at Microsoft, Uber Engineering, Upwork, Dataiku, BigML... Papers are very valuable for the community as they provide more details on what you did, for others to learn from.
+### Preparing your article
 
-### Submitting a paper (or extended abstract) with your proposal
-
-Please prepare one of the following *anonymized* documents in PDF format to include to your talk proposal:
-
-- an extended abstract of 2 pages or more (references and comparisons to related work should be included, but details of implementation can be omitted)
-- a short paper of 4 pages
-- a long paper of up to 8 pages.
-
-Please share this as a download link in the *Details* field. (You can create a link by uploading your paper to a cloud service such as Dropbox or Google Drive. We will keep all links private.)
-
-### Preparing your camera-ready paper
-
-Authors should use LaTeX to prepare their camera-ready papers (if you're not familiar with LaTeX, feel free to contact us once your initial submission has been accepted, so we can help). Please use the sample file [`jmlrwcp-sample.tex`](proceedings/sample-papers/jmlrwcp-sample.tex) as
-a starting point for formatting your article; we will provide a *starting page number* and *volume number* for PMLR, once your proposal has been accepted.
-
-You should prepare your submission as a ZIP archive containing...
-
-- your paper as a single LaTeX `.tex` document
-- any accompanying images in an `images` directory
-- the compiled paper as a PDF document of 4-8 pages in length (not including bibliography)
-- a completed [release form](https://github.com/PAPIsdotio/general/blob/master/proceedings/release.pdf).
-
-Please then share this archive as a download link in the Comments section of the CfP app.
-
-#### Compiling the LaTeX source into PDF
-
-The provided LaTeX file uses the `jmlr` class with the `pmlr` option: `\documentclass[pmlr]{jmlr}`. This class is defined in the [`jmlr.cls`](proceedings/jmlr.cls) style file. You can find some more details about that class in [`jmlr.pdf`](proceedings/jmlr.pdf), and full details at [CTAN](https://ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en).
+- We invite you to write your article on [Authorea](https://authorea.com) using [this template](https://authorea.com/users/242822/articles/319964-template-for-papis-proceedings). (Authorea is a great platform to read and write scientific articles on the web. It serves as a writing tool, a platform for publishing web-based “pre-prints”, and for reviewing them — via comments.)
+- When ready, please add your article to the [PAPIs group](https://authorea.com/inst/19295) and share the link to it in the Comments section of the CfP app (it can be a public or private link — whatever you're most comfortable with).
+- Once your Authorea article has been reviewed by the PAPIs Program Committee, and you've been able to take feedback into account, please export it to PDF and check that all looks ok. Articles are typically 4-8 pages long (not including bibliography) in their PDF version.
+- We ask you to complete and sign a [release form](https://github.com/PAPIsdotio/general/blob/master/proceedings/release.pdf) before publication.
+- The final PDF version ("camera-ready") will be published in the PMLR journal. The article will also be made public on Authorea (if that's not the case already).
 
 ## Any questions?
 
