@@ -72,9 +72,9 @@ Publishing an article in a peer-reviewed journal such as PMLR requires some effo
 
 ### Preparing your article
 
-- We invite you to write your article on [Authorea](https://authorea.com) using [this template](https://authorea.com/users/242822/articles/319964-template-for-papis-proceedings). (Authorea is a great platform to read and write scientific articles on the web. It serves as a writing tool, a platform for publishing web-based “pre-prints”, and for reviewing them — via comments.)
+- We invite you to write your article on [Authorea](https://authorea.com) using [this template](https://authorea.com/users/242822/articles/319964-template-for-papis-proceedings). You should aim for 3,000 - 4,000 words. (Authorea is a great platform to read and write scientific articles on the web. It serves as a writing tool, a platform for publishing web-based “pre-prints”, and for reviewing them — via comments.)
 - When ready, please add your article to the [PAPIs group](https://authorea.com/inst/19295) and share the link to it in the Comments section of the CfP app (it can be a public or private link — whatever you're most comfortable with).
-- Once your Authorea article has been reviewed by the PAPIs Program Committee, and you've been able to take feedback into account, please export it to PDF and check that all looks ok. Articles are typically 4-8 pages long (not including bibliography) in their PDF version.
+- Once your Authorea article has been reviewed by the PAPIs Program Committee, and you've been able to take feedback into account, please export it to PDF and check that all looks ok. Articles are typically ~8 pages long (not including figures nor bibliography) in their PDF version.
 - We ask you to complete and sign a [release form](https://github.com/PAPIsdotio/general/blob/master/proceedings/release.pdf) before publication.
 - The final PDF version ("camera-ready") will be published in the PMLR journal. The article will also be made public on Authorea (if that's not the case already).
 
