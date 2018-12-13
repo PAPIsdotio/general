@@ -68,6 +68,7 @@ Publishing an article in a peer-reviewed journal such as PMLR requires some effo
 - [Azure ML, 2015](http://proceedings.mlr.press/v50/azureml15.pdf) (Industrial experience report)
 - [Gutierrez, 2016](http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf) (Research paper)
 - [Cetinsoy, 2015](http://proceedings.mlr.press/v50/cetinsoy15.pdf) (Review paper)
+- More in our [2017](http://proceedings.mlr.press/v82/), [2016](http://proceedings.mlr.press/v67/) and [2015](http://proceedings.mlr.press/v50/) proceedings
 
 ### Preparing your article
 
